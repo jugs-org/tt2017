@@ -6,19 +6,19 @@ am 27. &amp; 28. April 2017
 ## Donnerstag
 
 1. YvesSchubert
-   * [Folien](YvesSchubert/testing_iot.pdf)
+   * [Testing IoT](YvesSchubert/testing_iot.pdf)
 2. TobiasSchneck
 3. JanJaruschek
-   * [Folien](JanJaruschek/AgilesTestenInDerPraxis_v2.pdf)
+   * [Agiles Testen in der Praxis](JanJaruschek/AgilesTestenInDerPraxis_v2.pdf)
 4. OliverHock
 
 ## Freitag
 
 1. MatthiasHuber
-   * [Folien](MatthiasHuber/StTT2017_inspectIT_die_offene_Alternative_fuer_APM.pptx)
+   * [inspectIT - die offene Alternative für Application Performance Management](MatthiasHuber/StTT2017_inspectIT_die_offene_Alternative_fuer_APM.pptx)
    * [Workshop](https://github.com/inspectit-labs/workshop)
 2. PeterFichtner
-   * [Folien](PeterFichtner/10_goldene_Regeln_mit_codelinks.pdf)
+   * [Die 10 goldenen Regeln für schlechte Tests](PeterFichtner/10_goldene_Regeln_mit_codelinks.pdf)
    * [Workshop](https://github.com/fiduciagad/die10goldenenRegelnFuerSchlechteTests)
 3. AndreasBrunnert
 4. JeremiasRoessler
