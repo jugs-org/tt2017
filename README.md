@@ -8,8 +8,8 @@ am 27. &amp; 28. April 2017
 1. YvesSchubert
    * [Testing IoT](YvesSchubert/testing_iot.pdf)
 2. TobiasSchneck
-3. JanJaruschek
-   * [Agiles Testen in der Praxis](JanJaruschek/AgilesTestenInDerPraxis_v2.pdf)
+3. JanJuraschek
+   * [Agiles Testen in der Praxis](JanJuraschek/AgilesTestenInDerPraxis_v2.pdf)
 4. OliverHock
 
 ## Freitag
