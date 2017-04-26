@@ -22,4 +22,6 @@ am 27. &amp; 28. April 2017
    * [Die 10 goldenen Regeln für schlechte Tests](PeterFichtner/10_goldene_Regeln_mit_codelinks.pdf)
    * [Workshop](https://github.com/fiduciagad/die10goldenenRegelnFuerSchlechteTests)
 3. AndreasBrunnert
+   * [Continuous Performance Evaluation using Open Source Tools](AndreasBrunnert/Continuous_Performance_Evaluation_using_Open_Source_Tools.pdf)
+   * [Workshop](https://github.com/RETIT/continuous-performance-evaluation)
 4. JeremiasRoessler
