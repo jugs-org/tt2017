@@ -11,7 +11,8 @@ am 27. &amp; 28. April 2017
 3. JanJuraschek
    * [Agiles Testen in der Praxis](JanJuraschek/AgilesTestenInDerPraxis_v2.pdf)
 4. OliverHock_StefanieReinicke
-   * [Übung](OliverHock_StefanieReinicke/BPMN_IOT_Execise.pdf)
+   * [BPMN meets IoT Vortrag](OliverHock_StefanieReinicke/BPMN_meets_IoT_Stuttgarter_Testtage.pdf)
+   * [Hunt the Wumpus - Übung](OliverHock_StefanieReinicke/BPMN_IOT_Execise.pdf)
 
 ## Freitag
 
