@@ -3,6 +3,8 @@
 Repository für die [Stuttgarter Test-Tage 2017](http://jugs.org/tt2017/index.html)
 am 27. &amp; 28. April 2017
 
+* [Agenda](Orga/Agenda.pdf)
+
 ## Donnerstag
 
 1. YvesSchubert
