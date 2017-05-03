@@ -10,6 +10,7 @@ am 27. &amp; 28. April 2017
 1. YvesSchubert
    * [Testing IoT](YvesSchubert/testing_iot.pdf)
 2. TobiasSchneck
+   * [Testing - Selenium? Rich-Clients? Containers?](TobiasSchneck/Testing - Selenium_ Rich-Clients_ Containers_.pdf)
 3. JanJuraschek
    * [Agiles Testen in der Praxis](JanJuraschek/AgilesTestenInDerPraxis_v2.pdf)
 4. OliverHock_StefanieReinicke
@@ -28,3 +29,4 @@ am 27. &amp; 28. April 2017
    * [Continuous Performance Evaluation using Open Source Tools](AndreasBrunnert/Continuous_Performance_Evaluation_using_Open_Source_Tools.pdf)
    * [Workshop](https://github.com/RETIT/continuous-performance-evaluation)
 4. JeremiasRoessler
+   * [5 Dinge, die sie ueber Regressionstests wissen sollten](JeremiasRoessler/retest.pdf)
